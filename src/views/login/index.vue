@@ -3,7 +3,7 @@
     <div class="login-form-wrap">
       <el-form class="login-form" ref="form" :model="form">
         <el-form-item>
-          <h2 class="title-wrap">亚信安全数字水印溯源系统</h2>
+          <h2 class="title-wrap">胡总后宫管理系统</h2>
         </el-form-item>
         <el-form-item>
           <el-input prefix-icon="el-icon-user" v-model="form.name"></el-input>
